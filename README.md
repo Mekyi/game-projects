@@ -1,5 +1,7 @@
 # Game projects (WIP)
 
+**Notes: Since GitHub markdown is not allowing `<iframe>` elements in the repository README, this list is going to be implemented as GitHub pages**
+
 ## Game jams
 
 ### Lost Adventurer
