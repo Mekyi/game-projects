@@ -6,6 +6,27 @@ The purpose of this list is to bring together and make it easier to find all of 
 
 ## Game jams
 
+### Penguin Peril
+
+- Game jam: NOKIA 3310 JAM 6
+- Theme: Freeze!
+- [itch.io page](https://mekyi.itch.io/penguin-peril)
+- [Source code](https://github.com/Mekyi/nokia-3310-jam-6)
+
+### Our Deer Friend
+
+- Game jam: Brackeys Game Jam 2024.1
+- Theme: What's Behind the Door?
+- [itch.io page](https://mekyi.itch.io/our-deer-friend)
+- [Source code](https://github.com/Mekyi/brackeys-game-jam-2024)
+
+### L.A.U.G.H. Inc.
+
+- Game jam: Global Game Jam / Finnish Game Jam 2024
+- Theme: Make Me Laugh
+- [itch.io page](https://mekyi.itch.io/laugh-inc)
+- [Source code](https://github.com/Mekyi/global-game-jam-2024)
+
 ### Lost Adventurer
 
 - Game jam: Weekly Game Jam #80
