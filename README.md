@@ -27,9 +27,30 @@ The purpose of this list is to bring together and make it easier to find all of 
 - [itch.io page](https://mekyi.itch.io/laugh-inc)
 - [Source code](https://github.com/Mekyi/global-game-jam-2024)
 
+### Louhos
+
+- Game jam: Game Off 2023
+- Theme: Scale
+- [itch.io page](https://mekyi.itch.io/louhos)
+- [Source code](https://github.com/Mekyi/game-off-2023) - Forked from the [original repository](https://github.com/TeNppa/GameOff2023)
+
+### Sci-Fi Stratagem
+
+- Game jam: Ludum Dare 54
+- Theme: Scale
+- [itch.io page](https://mekyi.itch.io/sci-fi-stratagem)
+- [Source code](https://github.com/Mekyi/ludum-dare-54)
+
+### TokTik
+
+- Game jam: GMTK Game Jam 2023
+- Theme: Roles Reversed
+- [itch.io page](https://karhu-games.itch.io/toktik)
+- [Source code](https://github.com/Mekyi/gmtk-game-jam-2023) - Forked from the [original repository](https://github.com/tailow/gmtk-jam-2023)
+
 ### Lost Adventurer
 
-- Game jam: Weekly Game Jam #80
+- Game jam: Weekly Game Jam 80
 - Theme: Winning is Losing
 - [itch.io page](https://mekyi.itch.io/lost-adventurer)
 - [Source code](https://github.com/Mekyi/wgj-80)
