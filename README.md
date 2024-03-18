@@ -48,6 +48,13 @@ The purpose of this list is to bring together and make it easier to find all of 
 - [itch.io page](https://karhu-games.itch.io/toktik)
 - [Source code](https://github.com/Mekyi/gmtk-game-jam-2023) - Forked from the [original repository](https://github.com/tailow/gmtk-jam-2023)
 
+### Till the Day I Die
+
+- Game jam: GMTK Game Jam 2022
+- Theme: Roll of the Dice
+- [itch.io page](https://karhu-games.itch.io/till-the-day-i-die)
+- [Source code](https://github.com/Mekyi/gmtk-game-jam-2022) - Forked from the [original repository](https://github.com/DanielBlomberg1/gmtk-jam-2022)
+
 ### Lost Adventurer
 
 - Game jam: Weekly Game Jam 80
