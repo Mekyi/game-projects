@@ -55,6 +55,13 @@ The purpose of this list is to bring together and make it easier to find all of 
 - [itch.io page](https://karhu-games.itch.io/till-the-day-i-die)
 - [Source code](https://github.com/Mekyi/gmtk-game-jam-2022) - Forked from the [original repository](https://github.com/DanielBlomberg1/gmtk-jam-2022)
 
+### Broken System
+
+- Game jam: Ludum Dare 49
+- Theme: Unstable
+- [itch.io page](https://mekyi.itch.io/broken-system)
+- [Source code](https://github.com/Mekyi/ludum-dare-49)
+
 ### Lost Adventurer
 
 - Game jam: Weekly Game Jam 80
