@@ -1,4 +1,4 @@
-# Game projects (WIP)
+# Game projects
 
 The purpose of this repository is to list all of my public game projects in one place and make it easier to navigate to their source code and game pages. Most of my game projects can be found on [itch.io](https://mekyi.itch.io/). I will try to keep this list simple, so for more information about the projects, please their web page or repository.
 
@@ -69,6 +69,31 @@ The purpose of this repository is to list all of my public game projects in one 
 - Theme: Unstable
 - [itch.io page](https://mekyi.itch.io/broken-system)
 - [Source code](https://github.com/Mekyi/ludum-dare-49)
+
+### Pepeg
+
+- Game jam: Metroidvania Month 5
+- [itch.io page](https://mekyi.itch.io/pepeg)
+
+### Rolling Rock
+
+- Game jam: GMTK Game Jam 2019 
+- Theme: Only One
+- [itch.io page](https://mekyi.itch.io/rolling-rock)
+
+### Fix the Beat
+
+- Game jam: Weekly Game Jam 104
+- Theme: Fix It
+- [itch.io page](https://mekyi.itch.io/fix-the-beat)
+- [Source code](https://github.com/Mekyi/weekly-game-jam-104)
+
+### Safe Travels
+
+- Game jam: Ludum Dare 44
+- Theme: Your Life Is Currency
+- [itch.io page](https://mekyi.itch.io/safe-travels)
+- [Source code](https://github.com/Mekyi/ludum-dare-44)
 
 ### Lost Adventurer
 
