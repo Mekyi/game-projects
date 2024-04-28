@@ -101,3 +101,10 @@ The purpose of this repository is to list all of my public game projects in one 
 - Theme: Winning is Losing
 - [itch.io page](https://mekyi.itch.io/lost-adventurer)
 - [Source code](https://github.com/Mekyi/wgj-80)
+
+## Others
+
+### Project Spookfest
+Game project made with Godot during Game Engine and Algorithms course
+- [Download page](https://github.com/Mekyi/project-spookfest/releases)
+- [Source code](https://github.com/Mekyi/project-spookfest)
